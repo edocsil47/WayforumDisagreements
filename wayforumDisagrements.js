@@ -13,4 +13,6 @@
 // @grant        none
 // ==/UserScript==
 
+/* globals dialog */
+
 $("a.ReactButton-Disagree").attr("data-reaction", "disagree");
