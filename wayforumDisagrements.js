@@ -1,4 +1,5 @@
 // ==UserScript==
+// @id wfdisagree
 // @name Show Wayforum Disagreements
 // @version 0.1
 // @author /u/edocsil47
