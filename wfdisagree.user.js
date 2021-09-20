@@ -1,9 +1,9 @@
 // ==UserScript==
 // @id wfdisagree
-// @name Show Wayforum Disagreements
+// @name Show Forum Disagreements
 // @version 0.1
 // @author /u/edocsil47
-// @description Lists your enemies on the forum
+// @description Hover to see disagreements on the Ingress and Wayfarer community forums
 // @match https://community.wayfarer.nianticlabs.com/discussion/*
 // @require http://code.jquery.com/jquery-latest.js
 // ==/UserScript==
